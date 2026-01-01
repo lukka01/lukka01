@@ -1,22 +1,14 @@
  Hi, I'm Luka 👋
 
-🎯 Junior Backend Developer specializing in Python and Django
-💻 Passionate about building efficient, scalable, and maintainable web applications
-📚 Focused on clean code, backend logic, and database design with SQL
+ 💻 Junior Backend Developer specializing in Python and Django
+ Passionate about building efficient, scalable, and maintainable web applications
+ Focused on clean code, backend logic, and database design with SQL
 
 🧰 Tech Stack
 Languages: Python, Java, SQL, HTML, CSS
 Frameworks: Django
 Databases: SQL (SQLite)
 Tools & Technologies: Git, Linux , Docker, VS Code, Postman
-📂 Featured Projects
-
-🚀 FOP-project
-Python interpreter Built with java
-
-🐾 Pet Adoption Platform
-A full-stack Django project that allows users to browse and adopt pets.
-
 
 
 Key Features:
